@@ -7,5 +7,5 @@ def square_array(numbers)
     new_array.push(numbers[i] ** 2)
     i += 1
   end
-  puts new_array
+  new_array
 end
